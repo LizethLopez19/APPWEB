@@ -1,0 +1,19 @@
+*{margin: 0;padding: 0;}
+html{background-color: navajowhite;}
+body{
+    width:750px;
+    height: 1000px; 
+    margin:auto;
+    background-color:pink
+}
+header{
+    background-color: rgb(182, 186, 64);
+    width:750px;
+    height: 100px;
+    margin-top: 70px; 
+    justify-content: center;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
